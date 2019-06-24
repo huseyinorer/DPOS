@@ -133,3 +133,12 @@ C:\Users\abis\Desktop\bin2\obj\Debug\mzn-IR\impostemalı2.resources.dll
 C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.TrustInfo.xml
 C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.exe
 C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.pdb
+C:\Users\abis\Desktop\bin2\bin\Debug\impostemalı2.exe.config
+C:\Users\abis\Desktop\bin2\bin\Debug\impostemalı2.exe.manifest
+C:\Users\abis\Desktop\bin2\bin\Debug\impostemalı2.application
+C:\Users\abis\Desktop\bin2\bin\Debug\impostemalı2.exe
+C:\Users\abis\Desktop\bin2\bin\Debug\impostemalı2.pdb
+C:\Users\abis\Desktop\bin2\bin\Debug\aa\impostemalı2.resources.dll
+C:\Users\abis\Desktop\bin2\bin\Debug\mzn-IR\impostemalı2.resources.dll
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.exe.manifest
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.application

@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="impostemalı2.exe.manifest" size="14175">
+    <dependentAssembly dependencyType="install" codebase="impostemalı2.exe.manifest" size="18826">
       <assemblyIdentity name="impostemalı2.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>7ZUv8Hg5pIBOgsdy9YJNuEq+BQhlLs9rca4CSnxs8bE=</dsig:DigestValue>
+        <dsig:DigestValue>1L8vySxN3vhSMVNT9sfjJ3jg2wLfylWz3h0vbg4qizE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
