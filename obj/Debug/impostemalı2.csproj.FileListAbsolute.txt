@@ -1,0 +1,107 @@
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\impostemalı2.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\impostemalı2.exe
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\impostemalı2.pdb
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\DevExpress.Data.v15.2.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\DevExpress.Utils.v15.2.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\DevExpress.Data.v15.2.xml
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\DevExpress.Utils.v15.2.xml
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form2.resources
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.exe
+c:\users\asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.pdb
+C:\Users\Asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form3.resources
+C:\Users\Asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.exe.licenses
+C:\Users\Asus\documents\visual studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form4.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\aa\impostemalı2.resources.dll
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\bin\Debug\mzn-IR\impostemalı2.resources.dll
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form2.aa.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form2.mzn-IR.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\aa\impostemalı2.resources.dll
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\mzn-IR\impostemalı2.resources.dll
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form5.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form10.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form11.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form12.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form13.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form14.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form15.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form16.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form17.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form18.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form19.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form20.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form6.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form7.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form8.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form9.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\impostemalı2\impostemalı2\obj\Debug\impostemalı2.csproj.ResolveComReference.cache
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\bin\Debug\impostemalı2.exe
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\bin\Debug\impostemalı2.exe.config
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.csproj.ResolveComReference.cache
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form1.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Form3.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Properties.Resources.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.csproj.GenerateResource.Cache
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.exe.licenses
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\aa\impostemalı2.resources.dll
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\mzn-IR\impostemalı2.resources.dll
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.exe
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.pdb
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\bin\Debug\impostemalı2.pdb
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\bin\Debug\aa\impostemalı2.resources.dll
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\bin\Debug\mzn-IR\impostemalı2.resources.dll
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.TKDK.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.TKDK.aa.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.TKDK.mzn-IR.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.TedarikciEkle.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.YatirimciEkle.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Makina_Ekipman.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.TrustInfo.xml
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\bin\Debug\impostemalı2.exe.manifest
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\bin\Debug\impostemalı2.application
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.exe.manifest
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.application
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.BelgeleriIndir.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.About.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.MakineEkipman_Duzenle.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Sartname_Duzenle.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.csprojResolveAssemblyReference.cache
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.VeritabanıYonetim.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.yatirimGuncelle.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.Yonetim.resources
+C:\Users\unknownArtist\Desktop\DELTA PROJE YEDEK DOSYALARI\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.HizmetAlimi.resources
+C:\Users\unknownArtist\OneDrive\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\bin\Debug\impostemalı2.exe.config
+C:\Users\unknownArtist\OneDrive\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\unknownArtist\OneDrive\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.csproj.ResolveComReference.cache
+C:\Users\unknownArtist\OneDrive\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.exe
+C:\Users\unknownArtist\OneDrive\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.pdb
