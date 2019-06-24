@@ -126,6 +126,12 @@
     <Compile Include="MakineEkipman_Duzenle.Designer.cs">
       <DependentUpon>MakineEkipman_Duzenle.cs</DependentUpon>
     </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -199,6 +205,40 @@
     <EmbeddedResource Include="MakineEkipman_Duzenle.resx">
       <DependentUpon>MakineEkipman_Duzenle.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\impostemalı2.About.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.BelgeleriIndir.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form1.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form10.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form11.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form12.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form13.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form14.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form15.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form16.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form17.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form18.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form19.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form20.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form3.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form5.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form6.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form7.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form8.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Form9.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.HizmetAlimi.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Makina_Ekipman.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.MakineEkipman_Duzenle.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Sartname_Duzenle.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.TedarikciEkle.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Tedarikçi_Yatırımcı.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.TKDK.aa.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.TKDK.mzn-IR.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.TKDK.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.VeritabanıYonetim.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.YatirimciEkle.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.yatirimGuncelle.resources" />
+    <EmbeddedResource Include="obj\Debug\impostemalı2.Yonetim.resources" />
     <EmbeddedResource Include="Sartname_Duzenle.resx">
       <DependentUpon>Sartname_Duzenle.cs</DependentUpon>
     </EmbeddedResource>
@@ -236,6 +276,16 @@
       <DependentUpon>Yonetim.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="impostemalı2_TemporaryKey.pfx" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\impostemalı2.application" />
+    <None Include="obj\Debug\impostemalı2.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\impostemalı2.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\impostemalı2.csproj.ResolveComReference.cache" />
+    <None Include="obj\Debug\impostemalı2.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\impostemalı2.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\Debug\impostemalı2.exe.manifest" />
+    <None Include="obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="Properties\app.manifest" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -299,6 +349,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="deltaps_abS_icon.ico" />
+    <Content Include="obj\Debug\aa\impostemalı2.resources.dll" />
+    <Content Include="obj\Debug\impostemalı2.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\impostemalı2.exe" />
+    <Content Include="obj\Debug\impostemalı2.exe.licenses" />
+    <Content Include="obj\Debug\impostemalı2.pdb" />
+    <Content Include="obj\Debug\impostemalı2.TrustInfo.xml" />
+    <Content Include="obj\Debug\Interop.InteropExtensionLib.dll" />
+    <Content Include="obj\Debug\mzn-IR\impostemalı2.resources.dll" />
+    <Content Include="obj\Debug\TempPE\DataSet1.Designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="obj\Release\impostemalı2.csproj.FileListAbsolute.txt" />
     <Content Include="Resources\adateoccurring_16x16.png" />
     <Content Include="Resources\addnewdatasource_16x16.png" />
     <Content Include="Resources\addnewdatasource_16x161.png" />
@@ -352,6 +413,9 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Release\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

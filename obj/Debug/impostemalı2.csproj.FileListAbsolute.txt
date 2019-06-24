@@ -105,3 +105,31 @@ C:\Users\unknownArtist\OneDrive\VİSUAL STUDİO PROGRAM\impostemalı2\impostemal
 C:\Users\unknownArtist\OneDrive\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.csproj.ResolveComReference.cache
 C:\Users\unknownArtist\OneDrive\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.exe
 C:\Users\unknownArtist\OneDrive\VİSUAL STUDİO PROGRAM\impostemalı2\impostemalı2\obj\Debug\impostemalı2.pdb
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.csprojAssemblyReference.cache
+C:\Users\abis\Desktop\bin2\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.csproj.ResolveComReference.cache
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.About.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.BelgeleriIndir.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.Form1.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.HizmetAlimi.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.Makina_Ekipman.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.MakineEkipman_Duzenle.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.Sartname_Duzenle.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.TedarikciEkle.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.TKDK.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.Form3.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.VeritabanıYonetim.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.Properties.Resources.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.YatirimciEkle.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.yatirimGuncelle.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.Yonetim.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.TKDK.aa.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.TKDK.mzn-IR.resources
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.csproj.GenerateResource.cache
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.exe.licenses
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.csproj.CoreCompileInputs.cache
+C:\Users\abis\Desktop\bin2\obj\Debug\aa\impostemalı2.resources.dll
+C:\Users\abis\Desktop\bin2\obj\Debug\mzn-IR\impostemalı2.resources.dll
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.TrustInfo.xml
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.exe
+C:\Users\abis\Desktop\bin2\obj\Debug\impostemalı2.pdb
